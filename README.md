@@ -5,7 +5,7 @@
 <br>
 <br>
 <br>
-- 🔭 I’m currently working on [My Portfolio] <a href="https://nishal-portfolio.vercel.app/"></a>
+- 🔭 I’m currently working on <a href="https://nishal-portfolio.vercel.app/">Portfolio</a>
 
 - 🌱 I’m currently learning **React, Unity**
 
