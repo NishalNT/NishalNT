@@ -7,7 +7,7 @@
 <br>
 - 🔭 I’m currently working on [My Portfolio](nishal-portfolio.vercel.app)
 
-- 🌱 I’m currently learning **React, Unreal Engine**
+- 🌱 I’m currently learning **React, Unity**
 
 - 📫 How to reach me **nishalnthingalaya1@gmail.com**
 
