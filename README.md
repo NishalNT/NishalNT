@@ -58,6 +58,5 @@
 <br>
 <br>
 <hr>
-<hr>
 <p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishalnt&" alt="nishalnt" /></p>
 
