@@ -5,9 +5,9 @@
 <br>
 <br>
 <br>
-- 🔭 I’m currently working on <a href="https://nishal-portfolio.vercel.app/">Portfolio</a>
+- 🔭 I’m currently working on <a href="https://portfolio-nishal.vercel.app/">Portfolio</a>
 
-- 🌱 I’m currently learning **React, Unity**
+- 🌱 I’m currently learning **React, Kotlin**
 
 - 📫 How to reach me **nishalnthingalaya1@gmail.com**
 - My PortFolio: **https://portfolio-nishal.vercel.app/**
