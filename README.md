@@ -7,7 +7,7 @@
 <br>
 - 🔭 I’m currently working on <a href="https://portfolio-nishal.vercel.app/">Portfolio</a>
 
-- 🌱 I’m currently learning **React, Kotlin**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **nishalnthingalaya1@gmail.com**
 - My PortFolio: **https://portfolio-nishal.vercel.app/**
