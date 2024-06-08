@@ -5,7 +5,7 @@
 <br>
 <br>
 <br>
-- 🔭 I’m currently working on project named Duty Scheduler
+- 🔭 I’m currently working on project named **Duty Scheduler**
 
 - 🌱 I’m currently learning **MERN**
 
