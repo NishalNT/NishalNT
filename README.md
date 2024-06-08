@@ -5,7 +5,7 @@
 <br>
 <br>
 <br>
-- 🔭 I’m currently working on <a href="https://portfolio-nishal.vercel.app/">Portfolio</a>
+- 🔭 I’m currently working on project named Duty Scheduler
 
 - 🌱 I’m currently learning **MERN**
 
