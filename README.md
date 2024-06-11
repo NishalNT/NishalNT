@@ -24,7 +24,7 @@
 <h3 align="left">Languages:</h3>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,express,mongodb,nodejs,php,mysql,tailwind,java,python,c,materialui&perline=8)]
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,express,mongodb,nodejs,php,mysql,tailwind,java,python,c,materialui&perline=8)
 
 </div>
 
@@ -33,7 +33,7 @@
 <h3 align="left">Tools:</h3>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,idea,pycharmc&perline=4)]
+![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,idea,pycharmc&perline=4)
 
 </div>
 
