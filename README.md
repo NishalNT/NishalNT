@@ -24,9 +24,10 @@
 <h3 align="left">Languages:</h3>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,express,mongodb,nodejs,php,mysql,tailwind,java,python,materialuic&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,express,mongodb,nodejs,php,mysql,tailwind,java,python,materialuic&perline=7)](https://skillicons.dev)
 
 </div>
+---
 <h3 align="left">Tools:</h3>
 <div align="center">
 
