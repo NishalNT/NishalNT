@@ -21,10 +21,16 @@
 <a href="https://instagram.com/nishal_thingalaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishal_thingalaya" height="30" width="40" /></a>
 </p>
 <hr>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,express,mongodb,nodejs,php,mysql,tailwind,androidstudio,java,python,c&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,express,mongodb,nodejs,php,mysql,tailwind,java,python,materialuic&perline=4)](https://skillicons.dev)
+
+</div>
+<h3 align="left">Tools:</h3>
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,idea,pycharmc&perline=4)](https://skillicons.dev)
 
 </div>
 
