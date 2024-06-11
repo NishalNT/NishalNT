@@ -23,8 +23,9 @@
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,express,mongodb,nodejs,php,sql,android,java,python,c&perline=4)](https://skillicons.dev)
-  
+
 </div>
 
 <hr>
