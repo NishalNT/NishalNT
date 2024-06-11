@@ -24,7 +24,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <table align="center" border="3px solid white">
   <tr border="3px solid white">
-    <td border="3px solid white">[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)</td>
+    <td border="3px solid white">HTML</td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </td>
     <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></td>
@@ -51,6 +51,8 @@
     <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </td>
   </tr>
 </table>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,express,mongodb,nodejs&perline=4)](https://skillicons.dev)
 
 <hr>
 
