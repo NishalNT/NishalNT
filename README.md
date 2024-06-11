@@ -27,7 +27,9 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,express,mongodb,nodejs,php,mysql,tailwind,java,python,c,materialui&perline=8)](https://skillicons.dev)
 
 </div>
+
 ---
+
 <h3 align="left">Tools:</h3>
 <div align="center">
 
