@@ -33,7 +33,7 @@
 <h3 align="left">Tools:</h3>
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,idea,pycharmc&perline=4)
+![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,idea,pycharm&perline=4)
 
 </div>
 
