@@ -39,7 +39,7 @@
 
 <hr>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishalnt&show_icons=true&locale=en&layout=compact" alt="nishalnt" /></p>
+<p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NishalNT&theme=dark&hide_border=false" alt="nishalnt" /></p>
 <br>
 <br>
 <br>
