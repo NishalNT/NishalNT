@@ -4,7 +4,6 @@
 <h3 align="center">A passionate developer who is in quest of knowledge</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishalnt&label=Profile%20views&color=0e75b6&style=flat" alt="nishalnt" /> </p>
-![Visitor Badge]("https://img.shields.io/badge/Visitors-1234-blue")
 <br>
 <br>
 <br>
