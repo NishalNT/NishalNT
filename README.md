@@ -34,7 +34,7 @@
 <h3>⚙️ Tools:</h3>
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,idea,pycharm&perline=4)
+![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,idea,pycharm,eclipse&perline=5)
 
 </div>
 
